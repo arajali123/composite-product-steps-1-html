@@ -304,11 +304,10 @@ ul {
   background: #1A5BA6;
   width: 100%;
   letter-spacing: 0.55px;
-  padding: 11px 15px;
+  padding: 12px 15px;
   border-radius: 5px;
   position: relative;
   overflow: hidden;
-  height: 38px;
   line-height: 1;
   cursor: pointer;
   border: none;
@@ -1098,7 +1097,6 @@ START: Product Cart CSS
 
 .cart-bottom-wrap .primary-btn {
   padding: 17px 15px;
-  height: auto;
 }
 
 /* !END: Product Cart CSS *
