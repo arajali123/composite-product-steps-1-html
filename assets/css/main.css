@@ -28,6 +28,7 @@ body {
   color: #121212cc;
   font-weight: normal;
   background: #F2F4F8;
+  word-break: break-word;
 }
 
 a {
@@ -393,6 +394,7 @@ START: Header CSS
   font-size: 14px;
   color: #121212;
   letter-spacing: 0.55px;
+  word-break: break-word;
 }
 
 .nav-menu-area ul li a:hover {
