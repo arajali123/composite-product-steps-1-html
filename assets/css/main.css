@@ -394,7 +394,6 @@ START: Header CSS
   font-size: 14px;
   color: #121212;
   letter-spacing: 0.55px;
-  word-break: break-word;
 }
 
 .nav-menu-area ul li a:hover {
@@ -524,7 +523,6 @@ START: Tabs Product CSS
 .tabs-product-main-wrapper .tabs-main-wrap {
   width: 54%;
   display: none;
-  word-wrap: break-word;
 }
 
 .tabs-product-main-wrapper div.active {
